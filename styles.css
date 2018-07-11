@@ -19,6 +19,7 @@ html, body {
         transition: none !important;
         max-height: 90vh;
         font-size: 20px;
+    color: red;
 }
 
 
